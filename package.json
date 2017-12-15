@@ -4,7 +4,7 @@
   "description": "Groonz Token and ICO",
   "main": "index.js",
   "directories": {
-    "test": "tests"
+    "test": "test"
   },
   "scripts": {
     "test": "truffle test"

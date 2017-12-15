@@ -1,4 +1,4 @@
-const GroonzTokenIco = artifacts.require('../GroonzTokenIco.sol');
+const GroonzTokenIco = artifacts.require('../contracts/GroonzTokenIco.sol');
 
 contract('GroonzTokenIco', accounts => {
 
